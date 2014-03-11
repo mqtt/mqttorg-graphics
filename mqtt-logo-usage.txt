@@ -1,7 +1,7 @@
 MQTT.org logos
 --------------
 
-This zip file contains a collection of graphics used on the http://mqtt.org website
+This repository contains a collection of graphics used on the http://mqtt.org website
 
 These graphics are free to use in presentations and on websites etc. when referring to MQTT 
 as a community or protocol - where possible please link them back to the mqtt.org community 
