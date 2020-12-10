@@ -9,9 +9,9 @@ This repository contains a collection of graphics used on the http://mqtt.org we
 
 Each icon available for bright and dark backgrounds in the following formats:
 
-* [/svg](svg)
-* [/jpg](jpg)
-* [/eps](eps)
+* [svg](/svg)
+* [jpg](/jpg)
+* [eps](/eps)
 
 These graphics are free to use in presentations and on websites etc. When referring to MQTT 
 as a community or protocol - where possible please link them back to the mqtt.org community 
