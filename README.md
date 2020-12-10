@@ -1,7 +1,7 @@
 MQTT Logos
 ==========
 
-![MQTT Logo](https://github.com/mqtt/mqttorg-graphics/png/mqtt-logo-250.png)
+<img src="mqtt-logo-250.png" width="250" alt="New MQTT logo"/>
 
 ## MQTT Logo - 2020 
 
